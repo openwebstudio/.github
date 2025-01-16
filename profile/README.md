@@ -22,11 +22,6 @@
   - Highly customizable theme support.
   - Responsive design for various devices.
 
-- **Features**:
-  - Modern and minimalist design style.
-  - Flexible themes and color schemes.
-  - Optimized component layouts for different screen sizes.
-
 ### Contributing
 - Contributions are welcome! If you have suggestions, bug reports, or feature requests, please create an issue or submit a pull request.
 
